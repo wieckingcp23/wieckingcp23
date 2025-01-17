@@ -2,7 +2,7 @@
 🌟 I decided to finally utilize this account! This is my space to show the things I have learned!
 
 ## 👨‍💻 About Me
-- 🎓 M.Eng. in Computer Science, Computer Security Concentration at Virginia Tech
+- 🎓 In my second semester in the Master of Engineering in Computer Science program at Virginia Tech!
 - 📚 Current Courseload:
     - CS 5124 - Algorithms in Bioinformatics
     - CS 5264 - Adv Linux Kernel Programming
