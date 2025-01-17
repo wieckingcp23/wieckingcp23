@@ -4,7 +4,10 @@
 ## 👨‍💻 About Me
 - 🎓 M.Eng. in Computer Science, Computer Security Concentration at Virginia Tech
 - 📚 Current Courseload:
-    - CS 5124 - Algorithms in Bioinformatics, CS 5264 - Adv Linux Kernel Programming, CS 5566 - Network Arch and Protocols II, CS 5664 - Social Media Analytics
+    - CS 5124 - Algorithms in Bioinformatics
+    - CS 5264 - Adv Linux Kernel Programming
+    - CS 5566 - Network Arch and Protocols II
+    - CS 5664 - Social Media Analytics
 
 ## 🛠️ Skills
 - **Languages**: Python, Java, SQL, PowerFX, LaTeX
