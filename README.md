@@ -16,7 +16,7 @@
 - **Technologies**: Linux (Kali, Debian, Ubuntu), Cisco IOS, Virtualization (VMware, VirtualBox)
 
 ## 🔍 Featured Projects
-- [**Square Vision**](https://github.com/wieckingcp23/Team1): Real-time object recognition application with AR capabilities.
+- [**Square Vision**](https://github.com/wieckingcp23/Team1): Real-time object recognition application.
 
 ## 🎓 Education
 - **Virginia Tech**: M.Eng. in Computer Science (Expected August 2025)
