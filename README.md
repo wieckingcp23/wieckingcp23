@@ -8,6 +8,7 @@
     - CS 5264 - Adv Linux Kernel Programming
     - CS 5566 - Network Arch and Protocols II
     - CS 5664 - Social Media Analytics
+- 🧑‍💼 Currently employed by the Federal Government
 
 ## 🛠️ Skills
 - **Languages**: Python, Java, SQL, PowerFX, LaTeX
