@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Peyton Wiecking
+# Hi there, my name is Peyton!
 🌟 I decided to finally utilize this account! This is my space to show the things I have learned!
 
 ## 👨‍💻 About Me
