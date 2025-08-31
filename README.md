@@ -12,14 +12,17 @@
   <a href="https://komarev.com/ghpvc/?username=wieckingcp23">
     <img src="https://komarev.com/ghpvc/?username=wieckingcp23&color=blue" alt="profile views">
   </a>
+  <!&nbsp;•&nbsp;
   <!-- Portfolio -->
   <a href="https://wieckingcp23.github.io">
     <img src="https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
+  &nbsp;•&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/peyton-wiecking/">
     <img src="https://img.shields.io/badge/LinkedIn-Peyton%20Wiecking-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;•&nbsp;
   <!-- Email (note the %40 for @) -->
   <a href="mailto:pwiecking@outlook.com">
     <img src="https://img.shields.io/badge/Email-pwiecking%40outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email">
@@ -81,7 +84,7 @@ I’m a software engineer who enjoys learning new systems, solving problems, and
 CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAWIA ETM (Foundational) • NREMT (EMT)
 
 ---
-
+<!--
 ### 📊 Activity & Stats
 <details>
 <summary>Click to expand</summary>
@@ -105,9 +108,8 @@ CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAW
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact" alt="Wakatime"/>
 </p>
--->
 </details>
-
+-->
 ---
 
 ### 🎓 Education
