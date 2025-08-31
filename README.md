@@ -88,7 +88,10 @@ This GitHub is where I
 <p align="center">
   <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="Virginia Military Institute" height="44"></a>
+  <a href="https://cs.vt.edu/"><img src="assets/vtcs_logo.png" alt="Virginia Tech" height="44"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="Virginia Military Institute" height="44"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmi.edu/academics/departments/computer-and-information-sciences/"><img src="assets/cydef_logo.png" alt="Virginia Military Institute" height="44"></a>
 </p>
 
 #### 📚 Selected Coursework
