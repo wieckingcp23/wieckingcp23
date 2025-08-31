@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://vt.edu"><img src="assets/vt.png" alt="Virginia Tech" height="44"></a>
+  <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmi.edu"><img src="assets/vmi.png" alt="VMI" height="44"></a>
+  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
 </p>
 
 
