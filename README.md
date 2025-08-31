@@ -55,16 +55,25 @@ This GitHub is where I:
   <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
 </p>
 
-#### 📚 Selected Coursework
+### 📚 Selected Coursework
 <details>
 <summary>Show courses</summary>
 
-| Course | Course |
-|:--|:--|
-| **CS 5664 — Social Media Analytics (VT)** — [repo](https://github.com/wieckingcp23/cs5664-spotify-network-analysis) | **CMSC 395 — High Performance Computing (Longwood)** — [repo](https://github.com/wieckingcp23/cmsc395-pthreads-memory-sharing) |
-| **CIS 343 — Design & Analysis of Algorithms (VMI)** — *private* | **CIS 303 — Computer & Information Security (VMI)** — *private* |
-| **CIS 480/490 — Capstone: Square Vision (VMI)** — [repo](https://github.com/wieckingcp23/vmi-team1-capstone-squarevision) | **CSCI 112 — Data Structures (R-MC)** — [repo](https://github.com/wieckingcp23/csci112-sierpinski-gasket) |
-| _(add more)_ | _(add more)_ |
+| Course | Institution | Term | Level |
+|:--|:--|:--|:--|
+| Advanced Linux Kernel Programming | Virginia Tech | 2024–2025 | Graduate |
+| AI Tools for Software Engineering | Virginia Tech | 2024–2025 | Graduate |
+| Information Security | Virginia Tech | 2024–2025 | Graduate |
+| Network Security | Virginia Tech | 2024–2025 | Graduate |
+| CS 5664 Social Media Analytics | Virginia Tech | 2024–2025 | Graduate |
+| Operating Systems | Virginia Military Institute | 2022–2023 | Undergraduate |
+| Computer & Information Security (CIS 303) | Virginia Military Institute | 2022–2023 | Undergraduate |
+| Networking | Virginia Military Institute | 2022–2023 | Undergraduate |
+| Database Management Systems | Virginia Military Institute | 2022–2023 | Undergraduate |
+| Design & Analysis of Algorithms (CIS 343) | Virginia Military Institute | 2022–2023 | Undergraduate |
+| Capstone: CIS 480/490 “Square Vision” | Virginia Military Institute | 2022–2023 | Undergraduate |
+| CSCI 112 Data Structures | Randolph-Macon College | 2019 | Undergraduate |
+| CMSC 395 High Performance Computing | Longwood University | 2021 | Undergraduate |
 
 </details>
 
