@@ -55,29 +55,27 @@ This GitHub is where I:
   <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
 </p>
 
-### 📚 Selected Coursework
+#### 📚 Selected Coursework
 <details>
 <summary>Show courses</summary>
 
 | Course | Institution | Term | Level |
 |:--|:--|:--|:--|
-| Advanced Linux Kernel Programming | Virginia Tech | 2024–2025 | Graduate |
-| AI Tools for Software Engineering | Virginia Tech | 2024–2025 | Graduate |
-| Information Security | Virginia Tech | 2024–2025 | Graduate |
-| Network Security | Virginia Tech | 2024–2025 | Graduate |
-| CS 5664 Social Media Analytics | Virginia Tech | 2024–2025 | Graduate |
-| Operating Systems | Virginia Military Institute | 2022–2023 | Undergraduate |
-| Computer & Information Security (CIS 303) | Virginia Military Institute | 2022–2023 | Undergraduate |
-| Networking | Virginia Military Institute | 2022–2023 | Undergraduate |
-| Database Management Systems | Virginia Military Institute | 2022–2023 | Undergraduate |
-| Design & Analysis of Algorithms (CIS 343) | Virginia Military Institute | 2022–2023 | Undergraduate |
-| Capstone: CIS 480/490 “Square Vision” | Virginia Military Institute | 2022–2023 | Undergraduate |
-| CSCI 112 Data Structures | Randolph-Macon College | 2019 | Undergraduate |
-| CMSC 395 High Performance Computing | Longwood University | 2021 | Undergraduate |
+| CS 5124 Algorithms in Bioinformatics | Virginia Tech | Spring 2025 | Graduate |
+| CS/ECE 5264 Advanced Linux Kernel Programming | Virginia Tech | Spring 2025 | Graduate |
+| CS 5664 Social Media Analytics | Virginia Tech | Spring 2025 | Graduate |
+| CS 5584 Network Security | Virginia Tech | Fall 2024 | Graduate |
+| CS/ECE 5660 Information Security | Virginia Tech | Fall 2024 | Graduate |
+| CS 5914 AI Tools for Software Engineering | Virginia Tech | Fall 2024 | Graduate |
+| CIS 303 Computer & Information Security | Virginia Military Institute | Spring 2023 | Undergraduate |
+| CIS 343 Design & Analysis of Algorithms | Virginia Military Institute | Spring 2023 | Undergraduate |
+| CIS 301 Networking | Virginia Military Institute | Fall 2022 | Undergraduate |
+| CIS 302 Modern Operating Systems | Virginia Military Institute | Fall 2022 | Undergraduate |
+| CIS 480/490 Capstone | Virginia Military Institute | Fall 2022 / Spring 2023 | Undergraduate |
+| CIS 222 Database Management Systems | Virginia Military Institute | Spring 2022 | Undergraduate |
+| CIS 476 Special Topics | Longwood University | Spring 2021 | Undergraduate |
 
 </details>
-
-
 
 ---
 
