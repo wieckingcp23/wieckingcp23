@@ -87,7 +87,7 @@ This GitHub is where I:
 
 ---
 
-### 📂 Portfolio
+### 📂 (Current) Portfolio
 - **VMI Capstone — Square Vision**  
   Real-time object detection with a Tkinter / CustomTkinter GUI.  
   Repo: <https://github.com/wieckingcp23/vmi-team1-capstone-squarevision>
@@ -108,7 +108,7 @@ This GitHub is where I:
   Recursive fractal using a simple graphics library.  
   Repo: <https://github.com/wieckingcp23/csci112-sierpinski-gasket>
 
-
+Check in again to see updates! 
 ---
 ### 💡 Skills
 - **Languages:** Python, Java, C/C++, SQL, Bash
@@ -122,21 +122,20 @@ This GitHub is where I:
 I’m not seeking roles right now, but I’m happy to connect.
 
 <p align="left">
-  <!-- Portfolio -->
   <a href="https://wieckingcp23.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-website-0d1117?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
+    <img src="assets/icons/github_logo.png" height="28" alt="Portfolio">
   </a>
   &nbsp;
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/peyton-wiecking/">
-    <img src="https://img.shields.io/badge/LinkedIn-Peyton%20Wiecking-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="assets/icons/linkedin.svg" height="28" alt="LinkedIn">
   </a>
   &nbsp;
-  <!-- Email -->
   <a href="mailto:pwiecking@outlook.com">
-    <img src="https://img.shields.io/badge/Email-pwiecking%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email">
+    <img src="assets/icons/microsoftoutlook.svg" height="28" alt="Email">
   </a>
 </p>
+
+
 
 ---
 
