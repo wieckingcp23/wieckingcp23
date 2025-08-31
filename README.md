@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
-</p>
-
-
 <h1 align="center">Hi there 👋 I'm Peyton</h1>
 
 <p align="center">
@@ -115,6 +108,11 @@ CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAW
 ### 🎓 Education
 - **Virginia Tech** — M.Eng. in Computer Science & Applications (security focus)  
 - **Virginia Military Institute** — B.S. in Computer Science
+<p align="center">
+  <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
+</p>
 
 ---
 
