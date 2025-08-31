@@ -5,7 +5,7 @@
   <a href="https://komarev.com/ghpvc/?username=wieckingcp23">
     <img src="https://komarev.com/ghpvc/?username=wieckingcp23&color=blue" alt="profile views">
   </a>
-  <!&nbsp;•&nbsp;
+  &nbsp;•&nbsp;
   <!-- Portfolio -->
   <a href="https://wieckingcp23.github.io">
     <img src="https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
@@ -24,28 +24,54 @@
 
 ---
 
-### 👨🏻‍💻 What I do
-I’m a software engineer who enjoys learning new systems, solving problems, and shipping useful tools. My focus areas are secure, reliable software and practical computer vision / ML.
+### 👨🏻‍💻 About
+I recently started my first software engineering role — excited to keep learning! 🎉  
+Before that, I worked in the Federal Government on secure communications, acquisitions, and lifecycle management.
 
-📌 Previously, I worked in federal service across acquisitions, secure communications, and systems development — testing cryptographic equipment, building internal tools, and supporting mission-critical programs.
+This GitHub is where I:
+- Share personal projects (some are private while I clean them up)
+- Preserve academic coursework and artifacts
+- Learn new skills through small experiments
 
-🔬 I’m currently learning and exploring:
-- Applied CV/ML with OpenCV and modern detection models
-- Full-stack patterns (Spring Boot + Next.js/React + MySQL + Docker)
-- Practical security, automation, and better docs
+**I’m currently learning**
+- Web basics and GitHub Pages for my portfolio site
+- Full-stack development and integration
+- Systems-level design and programming
+- Documentation and Markdown
 
-📫 How to reach me: [Email](mailto:pwiecking@outlook.com) • [LinkedIn](https://www.linkedin.com/in/peyton-wiecking/)
+---
+### 🎓 Education
+**Virginia Tech** | Blacksburg, VA | August 2025
+- M.Eng. in Computer Science & Applications
+- Concentration in Computer Security
+
+**Virginia Military Institute** | Lexington, VA | May 2023
+- B.S. in Computer Science
+- Minor in Cybersecurity
+
+<p align="center">
+  <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
+</p>
+
+#### 📚 Selected Coursework
+<details>
+<summary>Show courses</summary>
+
+| Course | Course |
+|:--|:--|
+| **CS 5664 — Social Media Analytics (VT)** — [repo](https://github.com/wieckingcp23/cs5664-spotify-network-analysis) | **CMSC 395 — High Performance Computing (Longwood)** — [repo](https://github.com/wieckingcp23/cmsc395-pthreads-memory-sharing) |
+| **CIS 343 — Design & Analysis of Algorithms (VMI)** — *private* | **CIS 303 — Computer & Information Security (VMI)** — *private* |
+| **CIS 480/490 — Capstone: Square Vision (VMI)** — [repo](https://github.com/wieckingcp23/vmi-team1-capstone-squarevision) | **CSCI 112 — Data Structures (R-MC)** — [repo](https://github.com/wieckingcp23/csci112-sierpinski-gasket) |
+| _(add more)_ | _(add more)_ |
+
+</details>
+
+
 
 ---
 
-### 💡 Skills
-- **Languages:** Python, Java, C/C++, SQL, Bash
-- **Data/ML/CV:** NumPy, Pandas, scikit-learn, TensorFlow, OpenCV, YOLO
-- **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose
-- **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox
-- **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
-
----
 
 ### 📂 Portfolio
 - **VMI Capstone — Square Vision**  
@@ -77,6 +103,50 @@ I’m a software engineer who enjoys learning new systems, solving problems, and
 CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAWIA ETM (Foundational) • NREMT (EMT)
 
 ---
+### 💡 Skills
+- **Languages:** Python, Java, C/C++, SQL, Bash
+- **Data/ML/CV:** NumPy, Pandas, scikit-learn, TensorFlow, OpenCV, YOLO
+- **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose
+- **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox
+- **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
+
+
+
+
+
+---
+
+### 📌 Academic use disclaimer
+Some repositories are coursework/capstone artifacts provided for **portfolio and reference only**.  
+If you are a current student, please do not copy or submit this work as your own — courses change and schools use plagiarism detection.
+
+
+
+---
+### 📫 Contact
+I’m not seeking roles right now, but I’m happy to connect.
+
+<p align="left">
+  <!-- Portfolio -->
+  <a href="https://wieckingcp23.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-website-0d1117?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+  &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/peyton-wiecking/">
+    <img src="https://img.shields.io/badge/LinkedIn-Peyton%20Wiecking-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <!-- Email -->
+  <a href="mailto:pwiecking@outlook.com">
+    <img src="https://img.shields.io/badge/Email-pwiecking%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+
+
 <!--
 ### 📊 Activity & Stats
 <details>
@@ -103,20 +173,3 @@ CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAW
 </p>
 </details>
 -->
----
-
-### 🎓 Education
-- **Virginia Tech** — M.Eng. in Computer Science & Applications (security focus)  
-- **Virginia Military Institute** — B.S. in Computer Science
-<p align="center">
-  <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
-</p>
-
----
-
-### 📌 Academic use disclaimer
-Some repositories are coursework/capstone artifacts provided for **portfolio and reference only**.  
-If you are a current student, please do not copy or submit this work as your own — courses change and schools use plagiarism detection.
-
