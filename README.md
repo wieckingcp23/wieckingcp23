@@ -67,11 +67,11 @@ This GitHub is where I:
 | CS 5584 Network Security | Virginia Tech | Fall 2024 | Graduate |
 | CS/ECE 5660 Information Security | Virginia Tech | Fall 2024 | Graduate |
 | CS 5914 AI Tools for Software Engineering | Virginia Tech | Fall 2024 | Graduate |
+| CIS 480/490 Capstone | Virginia Military Institute | Fall 2022 / Spring 2023 | Undergraduate |
 | CIS 303 Computer & Information Security | Virginia Military Institute | Spring 2023 | Undergraduate |
 | CIS 343 Design & Analysis of Algorithms | Virginia Military Institute | Spring 2023 | Undergraduate |
 | CIS 301 Networking | Virginia Military Institute | Fall 2022 | Undergraduate |
 | CIS 302 Modern Operating Systems | Virginia Military Institute | Fall 2022 | Undergraduate |
-| CIS 480/490 Capstone | Virginia Military Institute | Fall 2022 / Spring 2023 | Undergraduate |
 | CIS 222 Database Management Systems | Virginia Military Institute | Spring 2022 | Undergraduate |
 | CIS 476 Special Topics | Longwood University | Spring 2021 | Undergraduate |
 
