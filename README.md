@@ -1,23 +1,19 @@
 <h1 align="center">Hi there 👋 I'm Peyton</h1>
 
 <p align="center">
-  <!-- Views (Komarev) -->
-  <a href="https://komarev.com/ghpvc/?username=wieckingcp23">
+  <a href="https://komarev.com/ghpvc/?username=wieckingcp23" title="Profile views">
     <img src="https://komarev.com/ghpvc/?username=wieckingcp23&color=blue" alt="profile views">
   </a>
   &nbsp;•&nbsp;
-  <!-- Portfolio -->
-  <a href="https://wieckingcp23.github.io">
+  <a href="https://wieckingcp23.github.io" title="Portfolio website">
     <img src="https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;•&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/peyton-wiecking/">
+  <a href="https://www.linkedin.com/in/peyton-wiecking/" title="LinkedIn profile">
     <img src="https://img.shields.io/badge/LinkedIn-Peyton%20Wiecking-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;•&nbsp;
-  <!-- Email (note the %40 for @) -->
-  <a href="mailto:pwiecking@outlook.com">
+  <a href="mailto:pwiecking@outlook.com" title="Email me">
     <img src="https://img.shields.io/badge/Email-pwiecking%40outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
@@ -26,9 +22,9 @@
 
 ### 👨🏻‍💻 About
 I recently started my first software engineering role — excited to keep learning! 🎉  
-Before that, I worked in the Federal Government on secure communications, acquisitions, and lifecycle management.
+Before that, I worked in the federal government on secure communications, acquisitions, and lifecycle management.
 
-This GitHub is where I:
+This GitHub is where I
 - Share personal projects (some are private while I clean them up)
 - Preserve academic coursework and artifacts
 - Learn new skills through small experiments
@@ -40,14 +36,17 @@ This GitHub is where I:
 - Documentation and Markdown
 
 <p align="center">
-  <a href="https://www.afmc.af.mil/"><img src="assets/USAF_logo.png" alt="USAF" height="60"></a>
+  <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="Air Force Civilian Service (identification only)" height="100"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="AFCS" height="60"></a>
+  <a href="https://www.afmc.af.mil/"><img src="assets/USAF_logo.png" alt="US Air Force (identification only)" height="70"></a>  
   &nbsp;&nbsp;&nbsp;
-  <a href="http://l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris" height="60"></a>
+  <a href="https://www.l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris (identification only)" height="100"></a>
 </p>
 
+<sub>Logos are trademarks of their respective owners; used here for identification only.</sub>
+
 ---
+
 ### 🎓 Education
 **Virginia Tech** · Blacksburg, VA · Aug 2025  
 - M.Eng. in Computer Science & Applications  
@@ -91,46 +90,43 @@ This GitHub is where I:
 - **VMI Capstone — Square Vision**  
   Real-time object detection with a Tkinter / CustomTkinter GUI.  
   Repo: <https://github.com/wieckingcp23/vmi-team1-capstone-squarevision>
-
 - **VT Capstone — PIES EHR**  
   Full-stack EHR prototype (Spring Boot 3, Next.js/React TS, MySQL, Docker).  
   Repo: <https://github.com/BrettNon/EHR-System-for-PIES-Holistic-Yoga>
-
-- **CS 5664 — Spotify Network Analysis**  
+- **Spotify Network Analysis**  
   Artist/playlist graphs, centrality, communities (NetworkX + Jupyter).  
   Repo: <https://github.com/wieckingcp23/cs5664-spotify-network-analysis>
-
-- **CMSC 395 — PThreads: Shared Memory**  
+- **PThreads: Shared Memory**  
   Parallel matrix multiply, multi-threaded server, synchronization.  
   Repo: <https://github.com/wieckingcp23/cmsc395-pthreads-memory-sharing>
-
-- **CSCI 112 — Sierpiński Gasket**  
+- **Sierpiński Gasket**  
   Recursive fractal using a simple graphics library.  
   Repo: <https://github.com/wieckingcp23/csci112-sierpinski-gasket>
 
-Check in again to see updates! 
 ---
+
 ### 💡 Skills
-- **Languages:** Python, Java, C/C++, SQL, Bash
-- **Data/ML/CV:** NumPy, Pandas, scikit-learn, TensorFlow, OpenCV, YOLO
-- **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose
-- **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox
+- **Languages:** Python, Java, C/C++, SQL, Bash  
+- **Data/ML/CV:** NumPy, Pandas, scikit-learn, TensorFlow, OpenCV, YOLO  
+- **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose  
+- **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox  
 - **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
 
 ---
+
 ### 📫 Contact
-While I am not really looking for new roles or collaborations currently, feel free to reach out!
+I’m not seeking roles right now, but I’m happy to connect!
 
 <p align="left">
-  <a href="https://wieckingcp23.github.io">
+  <a href="https://wieckingcp23.github.io" title="Portfolio">
     <img src="assets/github_logo.png" height="28" alt="Portfolio">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/peyton-wiecking/">
+  <a href="https://www.linkedin.com/in/peyton-wiecking/" title="LinkedIn">
     <img src="assets/LinkedIn_logo.png" height="28" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:pwiecking@outlook.com">
+  <a href="mailto:pwiecking@outlook.com" title="Email">
     <img src="assets/email_logo.png" height="28" alt="Email">
   </a>
 </p>
