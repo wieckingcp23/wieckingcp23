@@ -135,13 +135,8 @@ While I am not really looking for new roles or collaborations currently, feel fr
   </a>
 </p>
 
-
-
----
-
-
-
 <!--
+---
 ### 📊 Activity & Stats
 <details>
 <summary>Click to expand</summary>
