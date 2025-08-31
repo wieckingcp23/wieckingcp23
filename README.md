@@ -40,11 +40,11 @@ This GitHub is where I:
 - Documentation and Markdown
 
 <p align="center">
-  <a href="https://www.afmc.af.mil/"><img src="assets/USAF_logo.png" alt="USAF" height="44"></a>
+  <a href="https://www.afmc.af.mil/"><img src="assets/USAF_logo.png" alt="USAF" height="60"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="AFCS" height="44"></a>
+  <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="AFCS" height="60"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="http://l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris" height="44"></a>
+  <a href="http://l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris" height="60"></a>
 </p>
 
 ---
@@ -85,9 +85,7 @@ This GitHub is where I:
 
 </details>
 
-
 ---
-
 
 ### 📂 Portfolio
 - **VMI Capstone — Square Vision**  
@@ -110,13 +108,6 @@ This GitHub is where I:
   Recursive fractal using a simple graphics library.  
   Repo: <https://github.com/wieckingcp23/csci112-sierpinski-gasket>
 
-- **Movie Project (course, private)**  
-  Team project on movie data and recommendations. Private repo — summary on request.
-
----
-
-### 🏅 Certificates
-CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAWIA ETM (Foundational) • NREMT (EMT)
 
 ---
 ### 💡 Skills
@@ -125,15 +116,6 @@ CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAW
 - **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose
 - **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox
 - **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
-
-
----
-
-### 📌 Academic use disclaimer
-Some repositories are coursework/capstone artifacts provided for **portfolio and reference only**.  
-If you are a current student, please do not copy or submit this work as your own — courses change and schools use plagiarism detection.
-
-
 
 ---
 ### 📫 Contact
