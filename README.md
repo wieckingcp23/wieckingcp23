@@ -119,19 +119,19 @@ Check in again to see updates!
 
 ---
 ### 📫 Contact
-I’m not seeking roles right now, but I’m happy to connect.
+While I am not really looking for new roles or collaborations currently, feel free to reach out!
 
 <p align="left">
   <a href="https://wieckingcp23.github.io">
-    <img src="assets/icons/github_logo.png" height="28" alt="Portfolio">
+    <img src="assets/github_logo.png" height="28" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/peyton-wiecking/">
-    <img src="assets/icons/linkedin.svg" height="28" alt="LinkedIn">
+    <img src="assets/LinkedIn_logo.png" height="28" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:pwiecking@outlook.com">
-    <img src="assets/icons/microsoftoutlook.svg" height="28" alt="Email">
+    <img src="assets/email_logo.png" height="28" alt="Email">
   </a>
 </p>
 
