@@ -35,12 +35,12 @@
 I recently started my first software engineering role — excited to keep learning! 🎉  
 Before that, I worked in the federal government on secure communications, acquisitions, and lifecycle management.
 
-This GitHub is where I
+This GitHub is where I:
 - Share personal projects (some are private while I clean them up)
 - Preserve academic coursework and artifacts
 - Learn new skills through small experiments
 
-**I’m currently learning**
+**I’m currently learning:**
 - Web basics and GitHub Pages for my portfolio site
 - Full-stack development and integration
 - Systems-level design and programming
