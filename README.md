@@ -8,13 +8,25 @@
 <h1 align="center">Hi there 👋 I'm Peyton</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=wieckingcp23"><img src="https://komarev.com/ghpvc/?username=wieckingcp23&color=blue" alt="profile views"></a>
+  <!-- Views (Komarev) -->
+  <a href="https://komarev.com/ghpvc/?username=wieckingcp23">
+    <img src="https://komarev.com/ghpvc/?username=wieckingcp23&color=blue" alt="profile views">
+  </a>
   &nbsp;•&nbsp;
-  <a href="https://wieckingcp23.github.io">Portfolio</a>
+  <!-- Portfolio -->
+  <a href="https://wieckingcp23.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-website-blue?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/peyton-wiecking/">LinkedIn</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/peyton-wiecking/">
+    <img src="https://img.shields.io/badge/LinkedIn-Peyton%20Wiecking-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   &nbsp;•&nbsp;
-  <a href="mailto:pwiecking@outlook.com">Email</a>
+  <!-- Email (note the %40 for @) -->
+  <a href="mailto:pwiecking@outlook.com">
+    <img src="https://img.shields.io/badge/Email-pwiecking%40outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
