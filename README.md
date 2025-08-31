@@ -20,6 +20,17 @@
 
 ---
 
+<p align="center">
+  <a href="#-about">About</a> •
+  <a href="#-current-portfolio">(Current) Portfolio</a> •
+  <a href="#-skills">Skills</a> •
+  <a href="#-education">Education</a> •
+  <a href="#-selected-coursework">Selected Coursework</a> •
+  <a href="#-contact">Contact</a>
+</p>
+
+---
+
 ### 👨🏻‍💻 About
 I recently started my first software engineering role — excited to keep learning! 🎉  
 Before that, I worked in the federal government on secure communications, acquisitions, and lifecycle management.
@@ -34,15 +45,34 @@ This GitHub is where I
 - Full-stack development and integration
 - Systems-level design and programming
 - Documentation and Markdown
-<!--
-<p align="center">
-  <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="Air Force Civilian Service (identification only)" height="100"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.afmc.af.mil/"><img src="assets/USAF_logo.png" alt="US Air Force (identification only)" height="70"></a>  
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris (identification only)" height="100"></a>
-</p>
--->
+
+---
+
+### 📂 (Current) Portfolio
+- **VMI Capstone — Square Vision**  
+  Real-time object detection with a Tkinter / CustomTkinter GUI.  
+  Repo: <https://github.com/wieckingcp23/vmi-team1-capstone-squarevision>
+- **VT Capstone — PIES EHR**  
+  Full-stack EHR prototype (Spring Boot 3, Next.js/React TS, MySQL, Docker).  
+  Repo: <https://github.com/BrettNon/EHR-System-for-PIES-Holistic-Yoga>
+- **Spotify Network Analysis**  
+  Artist/playlist graphs, centrality, communities (NetworkX + Jupyter).  
+  Repo: <https://github.com/wieckingcp23/cs5664-spotify-network-analysis>
+- **PThreads: Shared Memory**  
+  Parallel matrix multiply, multi-threaded server, synchronization.  
+  Repo: <https://github.com/wieckingcp23/cmsc395-pthreads-memory-sharing>
+- **Sierpiński Gasket**  
+  Recursive fractal using a simple graphics library.  
+  Repo: <https://github.com/wieckingcp23/csci112-sierpinski-gasket>
+
+---
+
+### 💡 Skills
+- **Languages:** Python, Java, C/C++, SQL, Bash  
+- **Data/ML/CV:** NumPy, Pandas, scikit-learn, TensorFlow, OpenCV, YOLO  
+- **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose  
+- **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox  
+- **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
 
 ---
 
@@ -82,34 +112,6 @@ This GitHub is where I
 | CIS 476 Special Topics | Longwood University | Spring 2021 | Undergraduate |
 
 </details>
-
----
-
-### 📂 (Current) Portfolio
-- **VMI Capstone — Square Vision**  
-  Real-time object detection with a Tkinter / CustomTkinter GUI.  
-  Repo: <https://github.com/wieckingcp23/vmi-team1-capstone-squarevision>
-- **VT Capstone — PIES EHR**  
-  Full-stack EHR prototype (Spring Boot 3, Next.js/React TS, MySQL, Docker).  
-  Repo: <https://github.com/BrettNon/EHR-System-for-PIES-Holistic-Yoga>
-- **Spotify Network Analysis**  
-  Artist/playlist graphs, centrality, communities (NetworkX + Jupyter).  
-  Repo: <https://github.com/wieckingcp23/cs5664-spotify-network-analysis>
-- **PThreads: Shared Memory**  
-  Parallel matrix multiply, multi-threaded server, synchronization.  
-  Repo: <https://github.com/wieckingcp23/cmsc395-pthreads-memory-sharing>
-- **Sierpiński Gasket**  
-  Recursive fractal using a simple graphics library.  
-  Repo: <https://github.com/wieckingcp23/csci112-sierpinski-gasket>
-
----
-
-### 💡 Skills
-- **Languages:** Python, Java, C/C++, SQL, Bash  
-- **Data/ML/CV:** NumPy, Pandas, scikit-learn, TensorFlow, OpenCV, YOLO  
-- **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose  
-- **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox  
-- **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
 
 ---
 
