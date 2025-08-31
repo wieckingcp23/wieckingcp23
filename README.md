@@ -39,20 +39,28 @@ This GitHub is where I:
 - Systems-level design and programming
 - Documentation and Markdown
 
+<p align="center">
+  <a href="https://www.afmc.af.mil/"><img src="assets/USAF_logo.png" alt="USAF" height="44"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="AFCS" height="44"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris" height="44"></a>
+</p>
+
 ---
 ### 🎓 Education
-**Virginia Tech** | Blacksburg, VA | August 2025
-- M.Eng. in Computer Science & Applications
+**Virginia Tech** · Blacksburg, VA · Aug 2025  
+- M.Eng. in Computer Science & Applications  
 - Concentration in Computer Security
 
-**Virginia Military Institute** | Lexington, VA | May 2023
-- B.S. in Computer Science
+**Virginia Military Institute** · Lexington, VA · May 2023  
+- B.S. in Computer Science  
 - Minor in Cybersecurity
 
 <p align="center">
   <a href="https://vt.edu"><img src="assets/vt_logo.png" alt="Virginia Tech" height="44"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="VMI" height="44"></a>
+  <a href="https://www.vmi.edu"><img src="assets/vmi_logo.png" alt="Virginia Military Institute" height="44"></a>
 </p>
 
 #### 📚 Selected Coursework
@@ -67,15 +75,16 @@ This GitHub is where I:
 | CS 5584 Network Security | Virginia Tech | Fall 2024 | Graduate |
 | CS/ECE 5660 Information Security | Virginia Tech | Fall 2024 | Graduate |
 | CS 5914 AI Tools for Software Engineering | Virginia Tech | Fall 2024 | Graduate |
-| CIS 480/490 Capstone | Virginia Military Institute | Fall 2022 / Spring 2023 | Undergraduate |
 | CIS 303 Computer & Information Security | Virginia Military Institute | Spring 2023 | Undergraduate |
 | CIS 343 Design & Analysis of Algorithms | Virginia Military Institute | Spring 2023 | Undergraduate |
+| CIS 480/490 Capstone | Virginia Military Institute | Fall 2022 / Spring 2023 | Undergraduate |
 | CIS 301 Networking | Virginia Military Institute | Fall 2022 | Undergraduate |
 | CIS 302 Modern Operating Systems | Virginia Military Institute | Fall 2022 | Undergraduate |
 | CIS 222 Database Management Systems | Virginia Military Institute | Spring 2022 | Undergraduate |
 | CIS 476 Special Topics | Longwood University | Spring 2021 | Undergraduate |
 
 </details>
+
 
 ---
 
@@ -116,9 +125,6 @@ CompTIA Security+ ce • Certified in Open-Source Intelligence (C|OSINT) • DAW
 - **Backend / Full-stack:** Spring Boot, Next.js/React (TypeScript), MySQL, Docker Compose
 - **Infra & OS:** Linux (Kali/Debian/Ubuntu), Windows, VMware/VirtualBox
 - **Dev & Collab:** Git/GitHub, VS Code, PyCharm, Jira, PowerApps/Automate
-
-
-
 
 
 ---
