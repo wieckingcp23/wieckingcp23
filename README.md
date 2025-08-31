@@ -34,7 +34,7 @@ This GitHub is where I
 - Full-stack development and integration
 - Systems-level design and programming
 - Documentation and Markdown
-
+<!--
 <p align="center">
   <a href="https://www.afmc.af.mil/"><img src="assets/afcs_logo.png" alt="Air Force Civilian Service (identification only)" height="100"></a>
   &nbsp;&nbsp;&nbsp;
@@ -42,8 +42,7 @@ This GitHub is where I
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.l3harris.com/"><img src="assets/L3Harris_logo.png" alt="L3Harris (identification only)" height="100"></a>
 </p>
-
-<sub>Logos are trademarks of their respective owners; used here for identification only.</sub>
+-->
 
 ---
 
@@ -130,6 +129,10 @@ I’m not seeking roles right now, but I’m happy to connect!
     <img src="assets/email_logo.png" height="28" alt="Email">
   </a>
 </p>
+
+---
+
+<sub>**Note:** Logos are trademarks of their respective owners; used here for identification only.</sub>
 
 <!--
 ---
