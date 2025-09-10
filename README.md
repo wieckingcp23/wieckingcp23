@@ -12,10 +12,6 @@
   <a href="https://www.linkedin.com/in/peyton-wiecking/" title="LinkedIn profile">
     <img src="https://img.shields.io/badge/LinkedIn-Peyton%20Wiecking-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:pwiecking@outlook.com" title="Email me">
-    <img src="https://img.shields.io/badge/Email-pwiecking%40outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ---
@@ -115,54 +111,3 @@ This GitHub is where I:
 | CIS 476 Special Topics | Longwood University | Spring 2021 | Undergraduate |
 
 </details>
-
----
-
-### 📫 Contact
-I’m not seeking roles right now, but I’m happy to connect!
-
-<p align="left">
-  <a href="https://wieckingcp23.github.io" title="Portfolio">
-    <img src="assets/github_logo.png" height="28" alt="Portfolio">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/peyton-wiecking/" title="LinkedIn">
-    <img src="assets/LinkedIn_logo.png" height="28" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:pwiecking@outlook.com" title="Email">
-    <img src="assets/email_logo.png" height="28" alt="Email">
-  </a>
-</p>
-
----
-
-<sub>**Note:** Logos are trademarks of their respective owners; used here for identification only.</sub>
-
-<!--
----
-### 📊 Activity & Stats
-<details>
-<summary>Click to expand</summary>
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wieckingcp23&show_icons=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wieckingcp23&layout=compact" alt="Top languages"/>
-</p>
-
-<p>
-  <img height="160" src="https://streak-stats.demolab.com?user=wieckingcp23" alt="GitHub Streak"/>
-</p>
-
-<!-- Optional: trophies (can be noisy)
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=wieckingcp23&no-frame=true&margin-w=10" alt="Trophies"/>
-</p>
--->
-
-<!-- Optional: WakaTime (if you use it)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact" alt="Wakatime"/>
-</p>
-</details>
--->
